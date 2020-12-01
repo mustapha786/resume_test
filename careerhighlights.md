@@ -1,4 +1,5 @@
-#100-word biography/profile presentation
+#100-word biography/profile presentation..
+
 	Joined DXC in August 2006 as Software Engineer in India and started working for the Zurich Farmers Insurance Commercial Lines System in Mainframes Technologies. 
 	2009 May, travelled to Simi valley, California as a Subject Matter Expert for the same project. 
 	2012 March travelled back to India and started working as Service Manager for the same project. 
