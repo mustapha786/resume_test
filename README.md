@@ -83,16 +83,13 @@ English – Oral
 <details>
   <summary>Technical Skills!</summary>
  
-## Top Skills (Technical/Nontechnical skills)
-*	Mainframe Technologies (COBOL, JCL, Easytreve, VSAM) (12+ Years) 
-*	Mainframe Tools (File Aid, Insync, Spufi, Endevor, Panapt etc.) (10+ years)  
-*	Project Management (6+ Years) 
-*	DB2 (1 year) 
-*	Informatica Power Center (2 year) 
-*	SAS Programming (1 year) 
-*	Java Technologies (Management experience 2+ Years) 
-*	Machine Learning / Artificial Interrigence (Self leanring) 
+ ## Top Skills (Technical/Nontechnical skills)
+  *	Mainframe Technologies (COBOL, JCL, Easytreve, VSAM) (12+ Years) 
+  *	Mainframe Tools (File Aid, Insync, Spufi, Endevor, Panapt etc.) (10+ years)  
+  *	Project Management (6+ Years) 
+  *	DB2 (1 year) 
+  *	Informatica Power Center (2 year) 
+  *	SAS Programming (1 year) 
+  *	Java Technologies (Management experience 2+ Years) 
+  *	Machine Learning / Artificial Interrigence (Self leanring) 
 </details>
-
-
-
