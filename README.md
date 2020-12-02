@@ -1,4 +1,6 @@
-Golam Mostapha Khan  
+# Introduction
+Skilled IT Leader with forteen plus years of experience in successfully managing projects and programs of applications related to Insurance . Innovative thinker and team player who thrives in a collaborative and dynamic environment, and who demonstrates leadership in managing people, process, and systems to execute strategic business objectives. An aggressive yet tactful leader with high credibility and integrity, coupled with an excellent work ethic.¬
+  
 Grand Rapids / Michigan, USA 
 Email ID: gkhan4@dxc.com 	Contact no.: 1-818-918-1892
 Profile
